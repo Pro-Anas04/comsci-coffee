@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@media (max-width: 768px) {
+    .cart-buttons button {
+      width: 6rem; /* ลดขนาดปุ่มในหน้าจอขนาดเล็ก */
+    }
+  }
+  
